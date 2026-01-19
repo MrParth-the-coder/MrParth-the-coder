@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Parth 👋
 # 💫 About Me:
-Hi there! I'm Parth 👋<br>Cybersecurity Analyst & Ethical Hacker<br><br>I am a B.Tech CSE student at Atmiya University with a relentless curiosity for how systems break—and how to fix them. I specialize in Penetration Testing and Web Application Security, currently sharpening my skills as an Intern at The Drop Organization.<br><br>🛠️ Security Arsenal<br>I work daily with the Kali Linux ecosystem:<br><br>Reconnaissance: Nmap, Shodan, Wireshark<br><br>Web Exploitation: Burp Suite Professional, SQLmap<br><br>Penetration Testing: Metasploit, Hydra, John the Ripper<br><br>💻 Technical Stack<br>Languages: Python, C, HTML5/CSS3, AngularJS<br><br>Domain Knowledge: Networking Protocols, IoT Fundamentals, Linux Administration<br><br>🔭 Current Focus<br>Conducting Bug Bounties on live targets to identify critical flaws.<br><br>Researching the security implications of IoT devices in networked environments.
+<br>
+Cybersecurity Analyst & Ethical Hacker<br><br>I am a B.Tech CSE student at Atmiya University with a relentless curiosity for how systems break—and how to fix them. I specialize in Penetration Testing and Web Application Security, currently sharpening my skills as an Intern at The Drop Organization.<br><br>🛠️ Security Arsenal<br>I work daily with the Kali Linux ecosystem:<br><br>Reconnaissance: Nmap, Shodan, Wireshark<br><br>Web Exploitation: Burp Suite Professional, SQLmap<br><br>Penetration Testing: Metasploit, Hydra, John the Ripper<br><br>💻 Technical Stack<br>Languages: Python, C, HTML5/CSS3, AngularJS<br><br>Domain Knowledge: Networking Protocols, IoT Fundamentals, Linux Administration<br><br>🔭 Current Focus<br>Conducting Bug Bounties on live targets to identify critical flaws.<br><br>Researching the security implications of IoT devices in networked environments.
 
 
 ## 🌐 Socials:
