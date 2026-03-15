@@ -8,7 +8,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrparth-gondaliya) &nbsp;&nbsp;&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mr._parth) &nbsp;&nbsp;&nbsp;
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mr_Parth_g)
-
+  <br>
+  [![Portfolio](https://img.shields.io/badge/My_Portfolio-Website-black?style=for-the-badge&logo=firefox)](https://parthgondaliya.netlify.app/)
 </div>
 
 ---
