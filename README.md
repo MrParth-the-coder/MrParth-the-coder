@@ -31,17 +31,23 @@ I am a **Computer Science Undergraduate** at Atmiya University with a specialize
 
 <p align="center">
 
-<a href="https://mrparth-the-coder.github.io/Tic-Tac-Toe/">
-<img src="https://img.shields.io/badge/🎮%20Play%20Tic%20Tac%20Toe-success?style=for-the-badge">
+
+<a href="https://github.com/MrParth-the-coder/Tic-Tac-Toe?tab=readme-ov-file#root">
+<img src="https://img.shields.io/badge/🎲%20Play%20Interactive%20Tic--Tac--Toe-00C853?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://github.com/MrParth-the-coder/Tic-Tac-Toe">
-<img src="https://img.shields.io/badge/⭐%20Repository-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github">
 </a>
 
 </p>
 
+<p align="center">
+<b>Challenge the GitHub README AI!</b><br>
+Play a fully interactive Tic-Tac-Toe game built entirely inside a GitHub README using only Markdown links and anchors.
+</p>
 
+<br><br>
 ### 🛡️ Security Arsenal & Tools
 *My daily drivers for CTFs, Bug Bounties, and Pentesting.*
 
