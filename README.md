@@ -27,6 +27,21 @@ I am a **Computer Science Undergraduate** at Atmiya University with a specialize
 
 ---
 
+## 🎮 Play My Game
+
+<p align="center">
+
+<a href="https://mrparth-the-coder.github.io/Tic-Tac-Toe/">
+<img src="https://img.shields.io/badge/🎮%20Play%20Tic%20Tac%20Toe-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/MrParth-the-coder/Tic-Tac-Toe">
+<img src="https://img.shields.io/badge/⭐%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+
 ### 🛡️ Security Arsenal & Tools
 *My daily drivers for CTFs, Bug Bounties, and Pentesting.*
 
